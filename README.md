@@ -4,7 +4,7 @@
 <h2 align="center">👋 Hi, I’m @Gokul</h2>
  </div>
 👀 I’m interested in Web Development<br>
-🌱 I’m currently learning- Full stack web development<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at -https://portfoliogokul.netlify.app/<br>📄 Know about my experiences- https://drive.google.com/file/d/161NHkXmLKVGaEoR92QKUUHBMbEJCRGyG/view?usp=drivesdk<br>📫 How to reach me- spgokul33@gmail.com
+🌱 I’m currently learning- Full stack web development<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at -https://portfoliogokul.netlify.app/<br>📄 Know about my experiences- https://drive.google.com/file/d/1RcvO5wuoItKMvZB-by2MpylhC5_oH9nW/view?usp=drive_link<br>📫 How to reach me- spgokul33@gmail.com
 
  
 # 💻 Tech Stack:
