@@ -1,10 +1,10 @@
 <img  height="200px" width="1000px" src="https://www.audienceplanet.com/root/template/1//images/web-development.gif">
 <div>
-<img align="right"  alt="coding" width src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHn44fCwLPn-CIi-hEUFDCL1240_xgr9hQXefb1W96qfDZ-NHoDQ1q9Ui5TrmOhqAIZ8&usqp=CAU">
+<img align="right"  alt="coding" width src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHn44fCwLPn-CIi-hEUFDCL1240_xgr9hQXefb1W96qfDZ-NHoDQ1q9Ui5TrmOhqAIZ8&usqp=CAU">2
 <h2 align="center">👋 Hi, I’m @Gokul</h2>
  </div>
 👀 I’m interested in Web Development<br>
-🌱 I’m currently learning- Full stack web development<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at -https://portfoliogokul.netlify.app/<br>📄 Know about my experiences- https://drive.google.com/file/d/1RcvO5wuoItKMvZB-by2MpylhC5_oH9nW/view?usp=drive_link<br>📫 How to reach me- spgokul33@gmail.com
+🌱 I’m currently learning- Full stack web development<br>💬 Ask me about- full stack developer<br>👨‍💻 All of my projects are available at -https://portfoliogokul.netlify.app/<br>📄 Know about my experiences- https://drive.google.com/file/d/1P8oOutb3b32c1eNVqDCoWYSXn3ZirnA4/view?usp=drivesdk<br>📫 How to reach me- spgokul33@gmail.com
 
  
 # 💻 Tech Stack:
